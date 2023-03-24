@@ -9,7 +9,7 @@ body{
     justify-content: space-between;
     align-items: center;
     padding: 20px 80px;
-    background-color: rgb(252,252,252);
+    background-color:  #e3e6f3;
     height: 80px;
     z-index:999;
     position: sticky;
@@ -68,6 +68,7 @@ body{
     align-items: flex-start;
     justify-content: center;
     flex-direction: column;
+    line-height:0;
 }
 #hero h4{
     padding-bottom:10px;
